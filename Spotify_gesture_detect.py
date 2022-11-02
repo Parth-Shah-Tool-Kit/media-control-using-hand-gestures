@@ -76,7 +76,7 @@ def do():
                 a = 0
         else:
             if x1>= 275 and x1<=325 and y1 <= 25:
-                p.press('play/pause')
+                p.press('playpause')
                 left = False
                 right = False
                 time.sleep(0.5)
